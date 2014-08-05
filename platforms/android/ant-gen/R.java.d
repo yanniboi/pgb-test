@@ -1,4 +1,4 @@
-/var/www/mobile/ionic/firebase/cordova/iona/platforms/android/ant-gen/com/yanniboi/iona/wedding/R.java \
+/var/www/mobile/ionic/firebase/cordova/iona/platforms/android/ant-gen/com/yanniboi/iona/R.java \
  : /var/www/mobile/ionic/firebase/cordova/iona/platforms/android/res/drawable-port-ldpi/screen.png \
 /var/www/mobile/ionic/firebase/cordova/iona/platforms/android/res/drawable-land-xhdpi/screen.png \
 /var/www/mobile/ionic/firebase/cordova/iona/platforms/android/res/drawable-ldpi/icon.png \
@@ -26,4 +26,29 @@
 /var/www/mobile/ionic/firebase/cordova/iona/platforms/android/res/drawable-hdpi/ic_action_remove.png \
 /var/www/mobile/ionic/firebase/cordova/iona/platforms/android/res/drawable-hdpi/icon.png \
 /var/www/mobile/ionic/firebase/cordova/iona/platforms/android/res/drawable-hdpi/ic_action_previous_item.png \
+/var/www/mobile/ionic/firebase/cordova/iona/platforms/android/ant-build/res/drawable-port-ldpi/screen.png \
+/var/www/mobile/ionic/firebase/cordova/iona/platforms/android/ant-build/res/drawable-land-xhdpi/screen.png \
+/var/www/mobile/ionic/firebase/cordova/iona/platforms/android/ant-build/res/drawable-ldpi/icon.png \
+/var/www/mobile/ionic/firebase/cordova/iona/platforms/android/ant-build/res/drawable-land-hdpi/screen.png \
+/var/www/mobile/ionic/firebase/cordova/iona/platforms/android/ant-build/res/drawable-port-mdpi/screen.png \
+/var/www/mobile/ionic/firebase/cordova/iona/platforms/android/ant-build/res/drawable-xxhdpi/ic_action_next_item.png \
+/var/www/mobile/ionic/firebase/cordova/iona/platforms/android/ant-build/res/drawable-xxhdpi/ic_action_remove.png \
+/var/www/mobile/ionic/firebase/cordova/iona/platforms/android/ant-build/res/drawable-xxhdpi/ic_action_previous_item.png \
+/var/www/mobile/ionic/firebase/cordova/iona/platforms/android/ant-build/res/drawable-mdpi/ic_action_next_item.png \
+/var/www/mobile/ionic/firebase/cordova/iona/platforms/android/ant-build/res/drawable-mdpi/ic_action_remove.png \
+/var/www/mobile/ionic/firebase/cordova/iona/platforms/android/ant-build/res/drawable-mdpi/icon.png \
+/var/www/mobile/ionic/firebase/cordova/iona/platforms/android/ant-build/res/drawable-mdpi/ic_action_previous_item.png \
+/var/www/mobile/ionic/firebase/cordova/iona/platforms/android/ant-build/res/drawable-port-hdpi/screen.png \
+/var/www/mobile/ionic/firebase/cordova/iona/platforms/android/ant-build/res/drawable-land-ldpi/screen.png \
+/var/www/mobile/ionic/firebase/cordova/iona/platforms/android/ant-build/res/drawable-land-mdpi/screen.png \
+/var/www/mobile/ionic/firebase/cordova/iona/platforms/android/ant-build/res/drawable/icon.png \
+/var/www/mobile/ionic/firebase/cordova/iona/platforms/android/ant-build/res/drawable-port-xhdpi/screen.png \
+/var/www/mobile/ionic/firebase/cordova/iona/platforms/android/ant-build/res/drawable-xhdpi/ic_action_next_item.png \
+/var/www/mobile/ionic/firebase/cordova/iona/platforms/android/ant-build/res/drawable-xhdpi/ic_action_remove.png \
+/var/www/mobile/ionic/firebase/cordova/iona/platforms/android/ant-build/res/drawable-xhdpi/icon.png \
+/var/www/mobile/ionic/firebase/cordova/iona/platforms/android/ant-build/res/drawable-xhdpi/ic_action_previous_item.png \
+/var/www/mobile/ionic/firebase/cordova/iona/platforms/android/ant-build/res/drawable-hdpi/ic_action_next_item.png \
+/var/www/mobile/ionic/firebase/cordova/iona/platforms/android/ant-build/res/drawable-hdpi/ic_action_remove.png \
+/var/www/mobile/ionic/firebase/cordova/iona/platforms/android/ant-build/res/drawable-hdpi/icon.png \
+/var/www/mobile/ionic/firebase/cordova/iona/platforms/android/ant-build/res/drawable-hdpi/ic_action_previous_item.png \
 /var/www/mobile/ionic/firebase/cordova/iona/platforms/android/ant-build/AndroidManifest.xml \

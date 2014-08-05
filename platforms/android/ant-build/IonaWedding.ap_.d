@@ -55,7 +55,6 @@
 /var/www/mobile/ionic/firebase/cordova/iona/platforms/android/assets/www \
 /var/www/mobile/ionic/firebase/cordova/iona/platforms/android/assets/www/lib \
 /var/www/mobile/ionic/firebase/cordova/iona/platforms/android/assets/www/index.html \
-/var/www/mobile/ionic/firebase/cordova/iona/platforms/android/assets/www/config.xml \
 /var/www/mobile/ionic/firebase/cordova/iona/platforms/android/assets/www/js \
 /var/www/mobile/ionic/firebase/cordova/iona/platforms/android/assets/www/img \
 /var/www/mobile/ionic/firebase/cordova/iona/platforms/android/assets/www/css \

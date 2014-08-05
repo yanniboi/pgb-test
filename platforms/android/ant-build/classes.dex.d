@@ -14,6 +14,8 @@
 /var/www/mobile/ionic/firebase/cordova/iona/platforms/android/ant-build/classes/org/apache/cordova/inappbrowser/InAppBrowser$4$1.class \
 /var/www/mobile/ionic/firebase/cordova/iona/platforms/android/ant-build/classes/org/apache/cordova/inappbrowser/InAppBrowser$5$2.class \
 /var/www/mobile/ionic/firebase/cordova/iona/platforms/android/ant-build/classes/org/apache/cordova/device/Device.class \
+/var/www/mobile/ionic/firebase/cordova/iona/platforms/android/ant-build/classes/com/yanniboi/iona/R$xml.class \
+/var/www/mobile/ionic/firebase/cordova/iona/platforms/android/ant-build/classes/com/yanniboi/iona/R$drawable.class \
 /var/www/mobile/ionic/firebase/cordova/iona/platforms/android/ant-build/classes/com/yanniboi/iona/wedding/R$xml.class \
 /var/www/mobile/ionic/firebase/cordova/iona/platforms/android/ant-build/classes/com/yanniboi/iona/wedding/R$drawable.class \
 /var/www/mobile/ionic/firebase/cordova/iona/platforms/android/ant-build/classes/com/yanniboi/iona/wedding/R$attr.class \
@@ -23,6 +25,13 @@
 /var/www/mobile/ionic/firebase/cordova/iona/platforms/android/ant-build/classes/com/yanniboi/iona/wedding/Manifest.class \
 /var/www/mobile/ionic/firebase/cordova/iona/platforms/android/ant-build/classes/com/yanniboi/iona/wedding/Manifest$permission.class \
 /var/www/mobile/ionic/firebase/cordova/iona/platforms/android/ant-build/classes/com/yanniboi/iona/wedding/IonaWedding.class \
+/var/www/mobile/ionic/firebase/cordova/iona/platforms/android/ant-build/classes/com/yanniboi/iona/R$attr.class \
+/var/www/mobile/ionic/firebase/cordova/iona/platforms/android/ant-build/classes/com/yanniboi/iona/BuildConfig.class \
+/var/www/mobile/ionic/firebase/cordova/iona/platforms/android/ant-build/classes/com/yanniboi/iona/R$string.class \
+/var/www/mobile/ionic/firebase/cordova/iona/platforms/android/ant-build/classes/com/yanniboi/iona/R.class \
+/var/www/mobile/ionic/firebase/cordova/iona/platforms/android/ant-build/classes/com/yanniboi/iona/Manifest.class \
+/var/www/mobile/ionic/firebase/cordova/iona/platforms/android/ant-build/classes/com/yanniboi/iona/Manifest$permission.class \
+/var/www/mobile/ionic/firebase/cordova/iona/platforms/android/ant-build/classes/com/yanniboi/iona/IonaWedding.class \
 /var/www/mobile/ionic/firebase/cordova/iona/platforms/android/ant-build/classes/com/plugin/gcm/PushPlugin.class \
 /var/www/mobile/ionic/firebase/cordova/iona/platforms/android/ant-build/classes/com/plugin/gcm/CordovaGCMBroadcastReceiver.class \
 /var/www/mobile/ionic/firebase/cordova/iona/platforms/android/ant-build/classes/com/plugin/gcm/GCMIntentService.class \
