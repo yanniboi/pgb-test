@@ -1,0 +1,19 @@
+<ion-header-bar class="bar-dark">
+  <h1 class="title">Sign In</h1>
+</ion-header-bar>
+<ion-content class="has-header padding">
+  <h3>If you already have an account, just sign in</h3>
+  <div class="list">
+    <label class="item item-input">
+      <span class="input-label">Email</span>
+      <input type="text" ng-model="user.email">
+    </label>
+    <label class="item item-input">
+      <span class="input-label">Password</span>
+      <input type="password" ng-model="user.password">
+    </label>
+    <label class="item item-input">
+      <button class="button button-block button-calm" ng-click="validateUser()">Sign In</button>
+    </label>
+  </div>
+</ion-content>

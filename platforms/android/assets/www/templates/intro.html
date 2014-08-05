@@ -1,0 +1,51 @@
+<ion-header-bar class="bar-dark">
+    
+    <div class="buttons">
+            <button ng-show="leftButtonShow" ng-click= "leftButtons[0].tap()" class="button {{leftButtons[0].type}}">
+                {{leftButtons[0].content}}
+            </button>
+          <h1 class="title">Welcome!</h1>
+
+        
+            <button ng-show="rightButtonShow" ng-click= "rightButtons[0].tap()" class="{{rightButtons[0].type}}">
+                {{rightButtons[0].content}}
+            </button>
+    </div>
+    
+</ion-header-bar>
+    <ion-slide-box on-slide-changed="slideChanged(index)">
+        
+        <!-- Slide 1 -->
+        <ion-slide>
+            <h3>Thank you for choosing the Awesome Wedding App!</h3>
+            <div id="logo">
+                <img width="50%" src="img/heart.png">
+            </div>
+            <p>
+                We've worked super hard to make things easier.
+            </p>
+            <p>
+                But if you disagree, there is always email, phone calls and tea with cakes.
+            </p>
+        </ion-slide>
+        
+        <!-- Slide 2 -->
+        <ion-slide>
+            <h3>But first....</h3>
+            
+            <p>Just so we know you are actually comeing to this wedding use the super secret code from the invites to unlock the App.</p>
+
+            <div class="list">
+                <label class="item item-input">
+                    <input type="text" ng-model="accessCode" placeholder="Please enter your super secure Access Code!">
+                </label>
+                <label class="item item-input">
+                    <button class="button button-block button-calm" ng-click="startApp()">
+                        Enter
+                    </button>
+                </label>
+            </div>
+        </ion-slide>
+        
+        
+    </ion-slide-box>
